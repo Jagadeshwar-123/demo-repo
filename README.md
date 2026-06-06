@@ -1,3 +1,3 @@
 # demo-repo
 Demo Repository
-author -Jagadeshwar
+author -Jagadeshwar(alpha _knowledge)
